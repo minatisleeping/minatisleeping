@@ -46,5 +46,4 @@
   &copy; 2023 Mai Minh Nhật minatisleeping 🛌 😴 
 </div>
 
-## 🐍 eating my contribution graph
-![snake gif](https://github.com/minatisleeping/minatisleeping/blob/output/github-contribution-grid-snake.gif)
+
