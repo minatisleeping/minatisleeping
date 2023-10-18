@@ -44,6 +44,7 @@
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2023 Mai Minh Nhật minatisleeping 🛌 😴 
+</div>
 
 ## 🐍 eating my contribution graph
 ![snake gif](https://github.com/minatisleeping/minatisleeping/blob/output/github-contribution-grid-snake.gif)
