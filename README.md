@@ -40,10 +40,10 @@
     <img align="center" alt="minat | Youtube" width="32px" src="https://icon-library.com/images/youtube-video-icon-png/youtube-video-icon-png-29.jpg" />
   </a> &nbsp;&nbsp;
 <p> 
-  
-## 🐍 eating my contribution graph
-![snake gif](https://github.com/minatisleeping/minatisleeping/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2023 Mai Minh Nhật minatisleeping 🛌 😴 
+
+## 🐍 eating my contribution graph
+![snake gif](https://github.com/minatisleeping/minatisleeping/blob/output/github-contribution-grid-snake.gif)
