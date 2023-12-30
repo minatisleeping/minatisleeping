@@ -17,6 +17,15 @@
 
 - ⚡ Fun fact: **I'm an introvert part-time** :))))<br/>I'm keen on **coding**, playing **badminton**, **swimming** and **reading books** especially **self-help** book
 
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minatisleeping&layout=compact&show_icon=true&theme=tokyonight" alt="minatisleeping-langs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=minatisleeping&layout=compact&show_icon=true&theme=tokyonight" alt="minatisleeping-stats"/>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&width=435&lines=Thanks+for+watching+my+profile!">
+</p>
+
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="5%"> For More Information, Please Check Out or Connect Me Via
 
 <p align="center">
@@ -42,7 +51,6 @@
 <p> 
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2023 Mai Minh Nhật minatisleeping 🛌 😴 
 </div>
 
