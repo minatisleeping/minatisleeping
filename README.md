@@ -20,6 +20,9 @@
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minatisleeping&layout=compact&show_icon=true&theme=tokyonight" alt="minatisleeping-langs"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=minatisleeping&layout=compact&show_icon=true&theme=tokyonight" alt="minatisleeping-stats"/>
+  <div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=minatisleeping&theme=algolia&background=0d1117&hide_border=true" />
+  </div>
 </div>
 
 <p align="center">
