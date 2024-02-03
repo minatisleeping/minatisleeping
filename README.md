@@ -11,7 +11,7 @@
 
 - 👨‍💻 I’m currently studying as a student at [**FPT University HCM**](https://hcmuni.fpt.edu.vn/)<img src="https://media1.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47oave78i42k7n567fhsx3hg7lrz1bp3v1sba3mg02&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" height="200" align="right"/>
 - 📚 My major is **Software Engineering**
-- 🌏 I'm living in HCM city, Viet Nam
+- 🌏 I'm living in HCM city, VietNam
 - 😅 I'm a very very very newbie in coding 🐧
 - 😎 All of my projects are available at [**my repositories**](https://github.com/minatisleeping?tab=repositories)
 
