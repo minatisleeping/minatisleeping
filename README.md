@@ -29,6 +29,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&width=435&lines=Thanks+for+watching+my+profile!">
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khoahd7621/khoahd7621/abdd6f1f216e501a84bb739f67799da11d93f7ee/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khoahd7621/khoahd7621/abdd6f1f216e501a84bb739f67799da11d93f7ee/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/khoahd7621/khoahd7621/abdd6f1f216e501a84bb739f67799da11d93f7ee/github-snake.svg" />
+  </picture>
+</div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minatisleeping/minatisleeping/abdd6f1f216e501a84bb739f67799da11d93f7ee/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minatisleeping/minatisleeping/abdd6f1f216e501a84bb739f67799da11d93f7ee/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/minatisleeping/minatisleeping/abdd6f1f216e501a84bb739f67799da11d93f7ee/github-snake.svg" />
+  </picture>
+</div>
+
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="5%"> For More Information, Please Check Out or Connect Me Via
 
 <p align="center">
@@ -56,6 +71,3 @@
 <div align="center">
   &copy; 2024 Mai Minh Nhật minatisleeping 🛌 😴 
 </div>
-
-## Snake eating my contribution graph 
-![snake gif](https://github.com/minatisleeping/minatisleeping/blob/output/github-contribution-grid-snake.gif)
