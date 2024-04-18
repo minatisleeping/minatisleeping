@@ -29,6 +29,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&width=435&lines=Thanks+for+watching+my+profile!">
 </p>
 
+## My contribution graph get eaten by Orochimaru 🐍🐊🐲
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khoahd7621/khoahd7621/abdd6f1f216e501a84bb739f67799da11d93f7ee/github-snake-dark.svg" />
