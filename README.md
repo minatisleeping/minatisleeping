@@ -30,19 +30,7 @@
 </p>
 
 ## My contribution graph get eaten by Orochimaru 🐍🐊🐲
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khoahd7621/khoahd7621/abdd6f1f216e501a84bb739f67799da11d93f7ee/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khoahd7621/khoahd7621/abdd6f1f216e501a84bb739f67799da11d93f7ee/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/khoahd7621/khoahd7621/abdd6f1f216e501a84bb739f67799da11d93f7ee/github-snake.svg" />
-  </picture>
-</div>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minatisleeping/minatisleeping/abdd6f1f216e501a84bb739f67799da11d93f7ee/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minatisleeping/minatisleeping/abdd6f1f216e501a84bb739f67799da11d93f7ee/github-snake.svg" />
-  </picture>
-</div>
+![https://github.com/minatisleeping/minatisleeping/blob/output/github-contribution-grid-snake.svg](https://github.com/minatisleeping/minatisleeping/blob/output/github-snake.svg)
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="5%"> For More Information, Please Check Out or Connect Me Via
 
