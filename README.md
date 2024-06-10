@@ -2,12 +2,10 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hii!+I'm+minat;Minatisleeping+zzzz!!!;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hii!+I'm+minatt;Mai+Minh+Nhat..;Eager+to+learn+and+grow!;Minatisleeping+zzzz!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Curious about me?
-
-## <div align="center">Hi, my fullname is Mai Minh Nhật<br/>but you can call me "minat"</div>
 
 - 👨‍💻 I’m currently studying as a student at [**FPT University HCM**](https://hcmuni.fpt.edu.vn/)<img src="https://media1.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47oave78i42k7n567fhsx3hg7lrz1bp3v1sba3mg02&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" height="200" align="right"/>
 - 📚 My major is **Software Engineering**
@@ -17,13 +15,15 @@
 
 - ⚡ Fun fact: **I'm an introvert part-time** :))))<br/>I'm keen on **coding**, playing **badminton**, **swimming** and **reading books** especially **self-help** book
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minatisleeping&layout=compact&show_icon=true&theme=tokyonight" alt="minatisleeping-langs"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=minatisleeping&layout=compact&show_icon=true&theme=tokyonight" alt="minatisleeping-stats"/>
+## 📈  GitHub Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minatisleeping&show_icons=true&theme=tokyonight&hide_border=true&show=reviews"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=minatisleeping&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/>
   <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=minatisleeping&theme=algolia&background=0d1117&hide_border=true" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=minatisleeping&ayout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400&hide=html,css,scss,handlebars" />
   </div>
-</div>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&width=435&lines=Thanks+for+watching+my+profile!">
