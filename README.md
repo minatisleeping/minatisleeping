@@ -57,5 +57,5 @@
 <p> 
 
 <div align="center">
-  &copy; 2025 Mai Minh Nhật minatisleeping 🛌😴 
+  &copy; 2025 Mai Minh Nhật minatisleeping 🛌 😴 
 </div>
